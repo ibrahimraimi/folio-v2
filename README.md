@@ -2,7 +2,9 @@
 
 2023 - 2025 version of my website [Ibrahim Raimi](https://ibrahimraimi.netlify.app)
 
-![Banner]()
+![Banner](https://i.ibb.co/pXQcMN7/609shots-so.png)
+
+Checkout the [figma design](https://figma.com/@ibrahimraimi)
 
 ## 🛠 Installation & Set Up
 
