@@ -1,6 +1,6 @@
 # Folio v2
 
-2023 - 2025 version of my website [Ibrahim Raimi](https://ibrahimraimi.netlify.app)
+2023 - 2025 version of my website [Ibrahim Raimi](https://ibrahimraimi.com)
 
 ![Banner](https://i.ibb.co/pXQcMN7/609shots-so.png)
 
